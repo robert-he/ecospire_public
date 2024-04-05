@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="107px" height="197px" viewBox="0 0 107 197" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0562558603 106.648811 0.0562558603 106.648811 173.885455 0 173.885455"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing" transform="translate(-621.000000, -862.000000)">
+            <g id="Group-10" transform="translate(621.000000, 862.000000)">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <g id="Group" mask="url(#mask-2)" fill="#7C43D6">
+                        <path d="M50.8900407,1.61149138 L0.101344286,170.970859 C-0.330859286,172.411459 0.672265714,173.885455 2.08428357,173.885455 L104.594487,173.885455 C105.990837,173.885455 106.979441,172.424126 106.545709,171.002335 L54.86853,1.60074349 C54.2387586,-0.464001423 51.5102586,-0.456708218 50.8900407,1.61149138" id="Fill-1"></path>
+                    </g>
+                </g>
+                <path d="M55.0426441,197 L50.4503136,197 C49.2213743,197 48.2253521,196.068599 48.2253521,194.919393 L48.2253521,152.103684 C48.2253521,150.954478 49.2213743,150.023077 50.4503136,150.023077 L55.0426441,150.023077 C56.2715835,150.023077 57.2676056,150.954478 57.2676056,152.103684 L57.2676056,194.919393 C57.2676056,196.068599 56.2715835,197 55.0426441,197" id="Fill-4" fill="#7C43D6"></path>
+            </g>
+        </g>
+    </g>
+</svg>

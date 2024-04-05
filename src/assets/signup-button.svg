@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="185px" height="43px" viewBox="0 0 185 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>button3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing" transform="translate(-628.000000, -314.000000)">
+            <g id="button3" transform="translate(628.000000, 314.000000)">
+                <g id="Group-8">
+                    <rect id="Rectangle-8" fill="#7C43D6" x="0" y="0" width="185" height="43" rx="21.5"></rect>
+                    <text id="Sign-Up" font-family="AvenirNext-Medium, Avenir Next" font-size="18" font-weight="400" fill="#FFFFFF">
+                        <tspan x="60.258" y="27">Sign Up</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
